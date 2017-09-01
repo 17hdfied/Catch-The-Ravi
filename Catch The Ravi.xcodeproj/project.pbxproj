@@ -15,6 +15,8 @@
 		562232FD1EF10827008D6AE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 562232FB1EF10827008D6AE2 /* LaunchScreen.storyboard */; };
 		562233081EF10827008D6AE2 /* Catch_The_RaviTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562233071EF10827008D6AE2 /* Catch_The_RaviTests.swift */; };
 		562233131EF10827008D6AE2 /* Catch_The_RaviUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 562233121EF10827008D6AE2 /* Catch_The_RaviUITests.swift */; };
+		562233231EF11672008D6AE2 /* kenny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 562233221EF11672008D6AE2 /* kenny.jpg */; };
+		567826E41EF18A9F00B24027 /* kenny 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 567826E31EF18A9F00B24027 /* kenny 2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		5622330E1EF10827008D6AE2 /* Catch The RaviUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Catch The RaviUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		562233121EF10827008D6AE2 /* Catch_The_RaviUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Catch_The_RaviUITests.swift; sourceTree = "<group>"; };
 		562233141EF10827008D6AE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		562233221EF11672008D6AE2 /* kenny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kenny.jpg; sourceTree = "<group>"; };
+		567826E31EF18A9F00B24027 /* kenny 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "kenny 2.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +106,9 @@
 				562232EF1EF10827008D6AE2 /* AppDelegate.swift */,
 				562232F11EF10827008D6AE2 /* ViewController.swift */,
 				562232F31EF10827008D6AE2 /* Main.storyboard */,
+				562233221EF11672008D6AE2 /* kenny.jpg */,
 				562232F91EF10827008D6AE2 /* Assets.xcassets */,
+				567826E31EF18A9F00B24027 /* kenny 2.jpg */,
 				562232FB1EF10827008D6AE2 /* LaunchScreen.storyboard */,
 				562232FE1EF10827008D6AE2 /* Info.plist */,
 				562232F61EF10827008D6AE2 /* Catch_The_Ravi.xcdatamodeld */,
@@ -235,7 +241,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				567826E41EF18A9F00B24027 /* kenny 2.jpg in Resources */,
 				562232FD1EF10827008D6AE2 /* LaunchScreen.storyboard in Resources */,
+				562233231EF11672008D6AE2 /* kenny.jpg in Resources */,
 				562232FA1EF10827008D6AE2 /* Assets.xcassets in Resources */,
 				562232F51EF10827008D6AE2 /* Main.storyboard in Resources */,
 			);
@@ -507,6 +515,7 @@
 				562233191EF10827008D6AE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5622331A1EF10827008D6AE2 /* Build configuration list for PBXNativeTarget "Catch The RaviTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +524,7 @@
 				5622331C1EF10827008D6AE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5622331D1EF10827008D6AE2 /* Build configuration list for PBXNativeTarget "Catch The RaviUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +533,7 @@
 				5622331F1EF10827008D6AE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
